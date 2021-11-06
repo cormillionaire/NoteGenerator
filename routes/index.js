@@ -1,5 +1,5 @@
 const express = require('express');
-const notes = require('./notes');
+const notesRouter = require('./notes');
 const notFound = require('./notFound');
 
 const app = express();

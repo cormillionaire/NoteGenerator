@@ -1,4 +1,4 @@
-const uuidv4 = require("uuid/v4");
+const uuidv4 = require("uuid");
 const notes = require('express').Router();
 const {
   readFromFile,
