@@ -3,7 +3,7 @@
 ## Description
 This project is a good looking browser based note storage system that is publicly available to the internet. You can create new notes or delete old ones. There is no way to update your notes, just make a new one. 
 
-Live Link: [NoteTaker](https://cormillionaire-note-generator.herokuapp.com/notes)
+Live Link: [NoteTaker](https://cormillionaire-note-generator.herokuapp.com)
 
 ---
 ## Table of Contents
@@ -21,7 +21,7 @@ Live Link: [NoteTaker](https://cormillionaire-note-generator.herokuapp.com/notes
 
 ## Usage
 Use this to take notes that persist across browsers and devices. Makes sure you only take notes that you'd like to share publicly.
-
+![noteTakerHome](./images/noteTakerHome.jpeg)
 ![NoteTaker.gif](./images/NoteTaker.gif)
 ## Tests
 Run in browser with network up, see network tab passes 200s
