@@ -29,6 +29,7 @@ Run in browser with network up, see network tab passes 200s
 ### People
 - Nando Davila - https://github.com/nandodavila
 - Justin Houk - https://github.com/jstndhouk
+- Express mini-project
 
 ### Resources
 - https://stackoverflow.com/questions/61526572/express-js-delete-request
