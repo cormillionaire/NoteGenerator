@@ -21,7 +21,7 @@ Live Link: [NoteTaker](https://cormillionaire-note-generator.herokuapp.com)
 
 ## Usage
 Use this to take notes that persist across browsers and devices. Makes sure you only take notes that you'd like to share publicly.
-![noteTakerHome](./images/noteTakerHome.jpeg)
+![noteTakerHome..PNG](./images/noteTakerHome..PNG)
 ![NoteTaker.gif](./images/NoteTaker.gif)
 ## Tests
 Run in browser with network up, see network tab passes 200s
